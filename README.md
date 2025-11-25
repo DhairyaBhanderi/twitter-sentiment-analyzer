@@ -403,9 +403,7 @@ MIT License - see LICENSE file
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@DhairyaBhanderi](https://github.com/DhairyaBhanderi)
 
 ---
 
